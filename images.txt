@@ -4,6 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/
-
 registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 
